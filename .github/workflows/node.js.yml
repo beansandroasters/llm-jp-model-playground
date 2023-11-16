@@ -36,6 +36,5 @@ jobs:
       - name: Deploy
         run: |
             npm ci
-            npm i -g aws-cdk
-            npm run cdk:deploy --require-approval never --all
+            npm run cdk:deploy -- --require-approval="never" --all
 

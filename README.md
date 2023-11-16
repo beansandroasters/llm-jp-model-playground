@@ -1,6 +1,6 @@
 # LLM JP Model Playground
 
-このレポジトリは、複数のモデルを SageMaker 上にデプロイしデモが行える Playground のサンプルコードでです。
+このレポジトリは、複数のモデルを SageMaker 上にデプロイしデモが行える Playground のサンプルコードです。
 
 ![sc_lp.png](/imgs/sc_lp.png)
 
